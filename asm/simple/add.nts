@@ -1,0 +1,3 @@
+ldi racc 10 # Load 10 as an immediate to racc
+ldi r4 0xA # Load 10 as an immediate to r4
+add racc r4 racc # Store the sum of racc and r4 to racc
